@@ -11,7 +11,7 @@ MIT Election Data and Science Lab, 2017, "U.S. House 1976–2020", https://doi.o
 
 ## The models
 
-The models can be found in the notebooks directory. I use a logistic regression as a baseline (which has mediocre performance, perhaps unsurprisingly), and compare it to a vanilla MLP, which significantly improves performance (93%). 
+The models can be found in the notebooks directory. I use a logistic regression as a baseline (which has mediocre performance, perhaps unsurprisingly), and compare it to a vanilla MLP, which significantly improves performance (by ~30%). 
 
 ## Neural Architecture Search 
 
